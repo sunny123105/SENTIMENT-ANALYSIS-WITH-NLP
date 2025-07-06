@@ -49,3 +49,7 @@ Predictions are made on the test data, and the performance is evaluated using a 
 
 predictions = model.predict(X_test)
 print(classification_report(y_test, predictions))
+
+
+output: ![Image](https://github.com/user-attachments/assets/05b47e45-305c-48e9-8407-83f1bc240949)
+
